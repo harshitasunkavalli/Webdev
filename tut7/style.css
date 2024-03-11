@@ -1,0 +1,15 @@
+.head{
+    border-color: brown;
+    border-width: 8px;
+    border-style: solid;
+    height: 10vh;
+    width:45vw;
+    display: inline;
+}
+.box{
+    border-color: brown;
+    border-width: 8px;
+    border-style: solid;
+    height: 70vh;
+    width:50vw;
+}

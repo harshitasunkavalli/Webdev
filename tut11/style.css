@@ -1,0 +1,51 @@
+
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..800;1,400..800&display=swap');
+.navbar-logo{
+    height: 30px;
+    width: 30px;
+}
+.mass-body{
+    height: 100vh;
+    background-image: url('https://res.cloudinary.com/drvxky5ad/image/upload/v1707234377/cld-sample-2.jpg');
+}
+.item-nav{
+    color: rgba(7, 71, 126, 0.482)
+}.body-section{
+    height: auto;
+    color: brown;
+    border :2px solid red ;
+}
+.item-nav:hover{
+    color:blueviolet;
+    font-family: 'Courier New', Courier, monospace;
+}
+.anchor{
+    margin-left: auto;
+}
+.box-left{
+  color: brown;
+  height: 50px;
+  text-align: center;
+}
+.pho{
+   width: 200px;
+   height: 200px;
+   align-content:center;
+
+}
+.hello{
+    color: darkviolet;
+    text-align: left;
+    text-size-adjust: 20px;
+}
+.us{
+    text-shadow: 10px;
+    text-align: center;
+    padding-top:50px;
+    color:#a8323e;
+    
+}
+.para{
+    color:rgb(255, 0, 0);
+    
+}
